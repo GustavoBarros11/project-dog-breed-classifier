@@ -26,15 +26,15 @@ From Udacity Deep Learning Nanodegree, 2° project of the course<br/>
 # Project Overview
 Welcome to the Convolutional Neural Networks (CNN) project! In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app. Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. Your imperfect solution will nonetheless create a fun user experience
+Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app. Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. Your imperfect solution will nonetheless create a fun user experience.
 
 # Project Assumptions
-- Template inicial de código foi disponibilizado para o projeto, meu papel foi o de adicionar funcionalidades chave para completar o projeto.
-- Seções que começam com '(IMPLEMENTATION)' ou '(ANSWER)' no cabeçalho, indicam que o bloco seguinte de código precisava de funcionalidades adicionais das quais eu provi.
-- Assumimos que na imagem deverá conter nela um cachorro, gato ou humano.
-- Eu estou assumindo que a imagem provida pelo usuário tenha uma resolução minimamente adequada.
-- Existe um número finito de categorias que podem ser classificadas.
-- Este projeto tem como objetivo por em teste os conhecimentos aprendidos na seção 'Redes Neurais Convolucionais' do Nanodegree Deep Learning da instituição Udacity.
+- Initial template code was already available for the project, my role was to add key features to complete the project.
+- Sections starting with '(IMPLEMENTATION)' or '(ANSWER)' in the header indicate that the next block of code needed additional functionality that I provided.
+- We assumed that the images provided to the modelcontained a dog, cat or human.
+- Assumed that images had an minimal resolution quality.
+- There are a finite number of categories that can be classified.
+- This project aims to test the knowledge learned in the 'Convolutional Neural Networks' section of the Nanodegree Deep Learning from Udacity.
 
 # Data Dictionary
 In this project a worked with 2 datasets. One with dog images and other with human faces, both were divided into 3 sub groups, one for `train`, `test` and `validate`. 

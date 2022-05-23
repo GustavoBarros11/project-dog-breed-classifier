@@ -1,13 +1,13 @@
-# **Classificando Raças de Cachorro com uma CNN**
-Esta é minha implementação do projeto de curso **CNN Project: Dog Breed Classifier**<br/>
-Do Nanodegree Deep Learning da Udacity, 2° Projeto do Curso<br/>
+# **Classifying Dog Breed with a CNN**
+This is my implementation of the **CNN Project: Dog Breed Classifier**<br/>
+From Udacity Deep Learning Nanodegree, 2° project of the course<br/>
 `Deep Learning Project`<br/>
 
 ![jpg](images/dog_breed_classifier.jpeg)
 
 # Table of Contents
 
-- [**Classificando Raças de Cachorro com uma CNN**](#classificando-raças-de-cachorro-com-uma-cnn)
+- [**Classifying Dog Breed with a CNN**](#classifying-dog-breed-with-a-cnn)
 - [Table of Contents](#table-of-contents)
 - [Project Overview](#project-overview)
 - [Project Assumptions](#project-assumptions)
